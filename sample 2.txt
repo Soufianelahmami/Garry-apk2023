@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Garry apk is a popular Android application that has gained popularity among mobile gamers in recent years. This application allows users to access a wide range of games,","photo":"https://iili.io/HvPMVeI.jpg"},
+  {"title":"tips pack 2","desc":"including both paid and free games, all in one place.","photo":"https://iili.io/HvPMM5N.jpg"},
+  {"title":"how to use this app 3","desc":"One of the most impressive features of Garry apk is its user-friendly interface. It is easy to navigate and allows users to find their desired game within seconds","photo":"https://iili.io/HvPM1gR.jpg"},
+  {"title":"advice pack 4","desc":"The app also provides regular updates on newly added games and features.","photo":"https://iili.io/HvPMGJp.jpg"},
+  {"title":"advance mod 5","desc":"Another standout feature of Garry apk is its compatibility with a variety of Android devices. This means that users with different types of Android devices, regardless of their screen size and resolution, can easily install and use the app.","photo":"https://iili.io/HvPMWbt.jpg"},
+  {"title":"helper pack 6","desc":"One of the major benefits of using Garry apk is the ability to access games that may not be available on the Google Play Store.","photo":"https://iili.io/HvPMhzX.jpg"},
+  {"title":"tips mod 7","desc":"This opens up a whole new world of possibilities for mobile gamers who want to explore new games that they may not have otherwise been able to play.","photo":"https://iili.io/HvPMjXn.jpg"},
+  {"title":"advice pack 8","desc":"In addition to games, Garry apk also provides access to a variety of useful tools and resources for mobile gamers. This includes game emulators, which allow users to play classic console games on their mobile devices, ","photo":"https://iili.io/HvPMwss.jpg"}
 
    ]
  
